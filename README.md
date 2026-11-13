@@ -17,3 +17,6 @@
 <a href="https://www.php.net/">
   <img src="https://img.shields.io/badge/PHP-Compatible-777BB4?logo=php&logoColor=white" alt="PHP Compatible">
 </a>
+
+<img width="1365" height="597" alt="image" src="https://github.com/user-attachments/assets/52cdfd29-62a7-419f-9059-fa2767ae44af" />
+
