@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="zelyonyysokol.png" alt="ZelyonyySokol Logo" width="300">
+<img src="ZelyonyySokol.png" alt="ZelyonyySokol Logo" width="300">
+  </p>
 # ZelyonyySokol
 <a href="https://zelyonyysokol.onrender.com/">Zelyonyysokol</a>
 (or ЗелёнийСокол) is a Russian version of GronnFalk. ZelyonyySokol is a metasearch engine, just like GronnFalk, being a fork of it.
