@@ -18,5 +18,8 @@
   <img src="https://img.shields.io/badge/PHP-Compatible-777BB4?logo=php&logoColor=white" alt="PHP Compatible">
 </a>
 
-<img width="1365" height="597" alt="image" src="https://github.com/user-attachments/assets/52cdfd29-62a7-419f-9059-fa2767ae44af" />
+## Screenshots
 
+<img width="465" height="197" alt="image" src="https://github.com/user-attachments/assets/52cdfd29-62a7-419f-9059-fa2767ae44af" />
+<br>
+<img width="465" height="197" alt="Screenshot of ZelyonyySokol" src="https://github.com/user-attachments/assets/2c7e0fb3-b885-4605-976d-6233decd120b" />
