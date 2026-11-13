@@ -1,4 +1,4 @@
-<img src="ZelyonyySokol.png" alt="ZelyonyySokol Logo" width="300">
+<img src="ZelyonyySokolLogo.png" alt="ZelyonyySokol Logo" width="300">
   </p>
 
 # ZelyonyySokol
