@@ -29,6 +29,12 @@
 ZelyonyySokol is based on [GronnFalk](https://github.com/LiamProsser77/gronnfalk).
 
 Original project created by LiamProsser77.
+
+## Links
+
+- **Live instance:** https://zelyonyysokol.onrender.com/
+- **Original project:** https://github.com/LiamProsser77/gronnfalk
+
 ## License
 
 ZelyonyySokol follows the license of its original project, GronnFalk.
