@@ -2,9 +2,10 @@
   </p>
 
 # ZelyonyySokol
-<a href="https://zelyonyysokol.onrender.com/">Zelyonyysokol</a>
-(or ЗелёнийСокол) is a Russian version of GronnFalk. ZelyonyySokol is a metasearch engine, just like GronnFalk, being a fork of it.
-## Plug ins for GronnFalk
+<p><a href="https://zelyonyysokol.onrender.com/">Zelyonyysokol</a>
+(or ЗелёнийСокол) is a Russian version of GronnFalk. ZelyonyySokol is a metasearch engine, just like GronnFalk, being a fork of it.</p>
+<p></p><a href="https://github.com/SomecuberLol/ZelyonyySokol/tree/main/">Code of ZelyonyySokol</a></p>
+## Plug ins for GronnFalk 
 <a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/Docker-Compatible-2496ED?logo=docker&logoColor=white" alt="Docker Compatible">
 </a>
