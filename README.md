@@ -4,7 +4,7 @@
 # ZelyonyySokol
 <p><a href="https://zelyonyysokol.onrender.com/">Zelyonyysokol</a>
 (or ЗелёнийСокол) is a Russian version of GronnFalk. ZelyonyySokol is a metasearch engine, just like GronnFalk, being a fork of it.</p>
-<p>The code of ZelyonyySokol is at this link, sorry about that.</p>
+<p>The code of ZelyonyySokol is at this link.</p>
 <p><a href="https://github.com/SomecuberLol/ZelyonyySokol/tree/main/"></a>https://github.com/SomecuberLol/ZelyonyySokol/tree/main</p>
 ## Plug ins for GronnFalk 
 <a href="https://www.docker.com/">
