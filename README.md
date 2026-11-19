@@ -31,6 +31,7 @@
 ZelyonyySokol is based on [GronnFalk](https://github.com/LiamProsser77/gronnfalk).
 
 Original project created by LiamProsser77.
+Most of the project created by LiamProsser77, without him, this wouldn't exist.
 
 ## Links
 
